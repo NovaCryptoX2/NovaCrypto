@@ -1,0 +1,16 @@
+{
+  "name": "novacryptox",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
